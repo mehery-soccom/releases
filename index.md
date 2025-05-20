@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Examples
+title: Releases
 nav_order: 1
 has_children: true
 ---
-# Introduction
+# Releases
 
 Welcome to our Scriptus Examples
